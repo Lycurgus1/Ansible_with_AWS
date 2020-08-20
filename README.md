@@ -1,3 +1,6 @@
+
+![logo](images/ansible_logo.png)
+
 # Ansible and AWS
 
 - This directory is about setting up Ansible with AWS
