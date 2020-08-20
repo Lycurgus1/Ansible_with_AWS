@@ -1,5 +1,5 @@
 
-![logo](images/ansible_logo.png)
+![logo](images/ansible_logo.png)     ![logo](images/aws_logo.png)
 
 # Ansible and AWS
 
